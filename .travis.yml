@@ -10,4 +10,4 @@ before_install:
   - docker push vanchien99/reverseproxy:v1
   - docker push vanchien99/udagram-api-user:v1
   - docker push vanchien99/udagram-api-feed:v1
-  - docker push vanchien99/udagram-frontend:v1
+  - docker push vanchien99/udagram-frontend:v2
